@@ -18,5 +18,5 @@ Click + on "Developer mode"
 Click "Load unpacked extensions..."
 Go to where you cloned Sky.
 
-Iconic extention should appear on the top left of chrome.
+Iconic extention should appear on the top right of chrome.
 Click to make the responsive magic happen.
