@@ -6,7 +6,7 @@ Sky is a chrome plugin dedicated to make all websites mobile friendly.
 
 #To use/Installation:
 
-1) Grab latest source
+1) Grab the latest source
 
 git clone https://github.com/Aaln/sky.git
 
